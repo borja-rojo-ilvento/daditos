@@ -75,6 +75,16 @@ colors, that effect could also trigger an enhancement.
 Also, more simply, dice of certain properties might have base interctions (which I need to flesh
 out). For example, Blue dice could always roll +2 (or something).
 
+### Building
+
+Dice are meant to be configurable. How this is done is still up in the air.
+
+- A crafting bench with the ability to combine and break dice?
+- Items as ingredients? Helps add dice modifiers, perhaps. The ingredients could be very flavorful
+in that they are a feedback loop between the work interaction and the dice themselves, adding a
+narrative layer by marking the results of your journey and decisions. (maybe needs to be more
+permanent/ appendy semantics. Reversion is done with a removal item, not an undo.)
+
 ## Relics, cards, overlays (working concept name)
 
 Here is a kind of 'filter' mechanic which can affect the outcome and effect of a certain class of
@@ -95,6 +105,17 @@ The way that the map works is fog-of-war style. Think Age of Empires, League of 
 The player moves around trying to find the boss to defeat (for now), while also potentially
 encountering other events, which can vary. Path of Exile has a great tiling mechanism for their
 maps, which can be of great inspiration.
+
+### Locations
+
+Special/ unique locations, which hold lore and all that, could be an element of altering typical
+sets of interations. Perhaps there are items, monsters, and NPCs would normally only are around in
+specific locations.
+
+More siginificantly to the character of the location, though, are things a
+player could interact with in the location itself. Maybe there are shrines that can be used to bless
+dice. ! The character and properties of maps themselves (almost like their own NPCs) needs to be
+explored as well !
 
 ## Notes
 
