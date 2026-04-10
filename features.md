@@ -95,6 +95,20 @@ dice. The idea is that modifications here can enhance your rolls in a variety of
 perhaps adding extra effects for certain combinations of dice, effecting the number outcomes of
 certain dice classes (targeting their color, material, pattern), and other things.
 
+## Equiment
+
+This might be the same as relics. I was thinking that maybe you could have different thematic tools
+that would effect roll sets. Concidering that there might be a roll of dice done sequentially for an
+interaction, but that one roll could have multiple dice from your pool but not all, then perhaps
+rolls sets themselves could be a target for modification.
+
+- A different kind of dice cup could change the roll set (maybe this is where you place traits
+specific to multiple-dice interations, like full house and stuff??)
+- A dice box that rolls are thrown onto could have an effect on the whole interaction itself, if
+dice are thrown into a collection?
+
+
+
 ## Encounters
 
 - Monsters
@@ -154,6 +168,11 @@ reuse.
 reminds me of the joker mechanism in Balatro, in that you can just create discrete cards with
 different rules. Maybe, that requires also a kind of `ctx` idea where the Joker is activated in a
 stack with the ability to read and interact with the global state. Idk.
+
+- An thought regarding modification elements such as relics or equipment makes me think of the
+'appropriate' place to have customizations modify different aspects of rolling. A practice of
+identifying what each piece of the process actually is could inspire classes of items to be able to
+customize.
 
 ## Data Model
 
