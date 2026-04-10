@@ -45,6 +45,7 @@ Each color adds a different character to the roll of a dice.
 Allow for different color effects to be present on a dice which each combine to have a particular
 new type of effect.
 
+- Solid
 - Dotted
 - Stripped
 - Swirled
@@ -52,12 +53,17 @@ new type of effect.
 
 #### Material
 
-- Solid
+- Plastic
 - Metal
 - Crystal
 - Wood
 - Air
 - Water
+
+#### Enchants
+
+Blessings and curses that generate different effects? Adds in the aspects of soft-magic over the
+very hard-magic nature of dice rolling and math mechanics.
 
 ### Rolls
 
