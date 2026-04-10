@@ -84,6 +84,9 @@ Dice are meant to be configurable. How this is done is still up in the air.
 in that they are a feedback loop between the work interaction and the dice themselves, adding a
 narrative layer by marking the results of your journey and decisions. (maybe needs to be more
 permanent/ appendy semantics. Reversion is done with a removal item, not an undo.)
+- The ability to replace numbers on a dice with other things! Specific numbers can get
+swapped out entirely. A number could get swapped out with someting that isn't a number at all! I
+don't even know what that means in this system but I want it.
 
 ## Relics, cards, overlays (working concept name)
 
