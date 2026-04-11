@@ -174,6 +174,27 @@ stack with the ability to read and interact with the global state. Idk.
 identifying what each piece of the process actually is could inspire classes of items to be able to
 customize.
 
+- Lore-led and architype led runs for different classes feel really good for RPG and character
+building. The approach that I like to take invovles implementing an architype using the tools of the
+system in which they play in.
+
+- I definitely need to study different dice games. 'Generala' revolves around completing a list of
+dice patterns, such as doubles and staights. I'd like to learn more about what interaction mechanics
+are out there and the rolling properties of each. For example, in a pack of 5 dice, you are forced
+to either get a straight or get a double, at least. I think that's a cool property of dice side
+counts interacting with dice throw count. (5 d6 create this effect). More combo of this sort
+count be exploitable by using different dice types and modified dice. For example, if there was a
+combo for no matching dice (like a straight but not quite), then perhaps you would use few dice, or
+dice that have had their roll profiles spread out by adding numbers to a die.
+
+- Other kinds of faces that aren't numbers are significant in breaking the number-based combo
+paradigm. If there were shapes or elements on faces, or other types of sets, I wonder in which ways
+they would apply and combine effects.
+
+- Fede talked a lot about interactions that fuck with your build. For example, adding a die to your
+  throw or pool, which can throw off the math (or boost it!). This could also apply other properties
+  of dice, like swapping out faces, materials, patterns, and more.
+
 ## Data Model
 
 ```lua
